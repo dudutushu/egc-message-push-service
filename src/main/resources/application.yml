@@ -1,0 +1,14 @@
+server:
+  port: 8083
+
+egc:
+  base:
+    ackey: 1d0ec00844530316
+  jpush:
+    appKey: ef97eeebd2f3459bca85ee02
+    masterSecret: 667f038e269bd1111aa1183f
+  sms:
+    accessKeyId: LTAIbW4uz7fAtIZB
+    accessKeySecret: JiQERgLeEkUeWg1WsIIGXYFKpVoEM3
+
+
