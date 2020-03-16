@@ -3,12 +3,12 @@ server:
 
 egc:
   base:
-    ackey: 1d0ec00844530316
+    ackey: 1d0ec00844530316a
   jpush:
-    appKey: ef97eeebd2f3459bca85ee02
-    masterSecret: 667f038e269bd1111aa1183f
+    appKey: ef97eeebd2f3459bca85ee02a
+    masterSecret: 667f038e269bd1111aa1183fa
   sms:
-    accessKeyId: LTAIbW4uz7fAtIZB
-    accessKeySecret: JiQERgLeEkUeWg1WsIIGXYFKpVoEM3
+    accessKeyId: LTAIbW4uz7fAtIZBa
+    accessKeySecret: JiQERgLeEkUeWg1WsIIGXYFKpVoEM3a
 
 
